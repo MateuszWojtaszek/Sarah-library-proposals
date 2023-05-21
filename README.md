@@ -2,8 +2,8 @@
 Hejka, to moje propozycje bibliotek do wykorzystania w projekcie wraz z krótkim opisem dlaczego moglibyśmy ich użyć (;
 
 # PyTorch
--https://www.youtube.com/watch?v=ORMx45xqWkA
--Biblioteka słynąca przy tworzeniu algorytmów do rozpoznawania i kategoryzowania przyjmowanych danych podczas tworzenia AI
+- https://www.youtube.com/watch?v=ORMx45xqWkA
+- Biblioteka słynąca przy tworzeniu algorytmów do rozpoznawania i kategoryzowania przyjmowanych danych podczas tworzenia AI
 
 # NLTK
 - https://www.nltk.org/
