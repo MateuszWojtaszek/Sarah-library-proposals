@@ -8,3 +8,6 @@ Hejka, to moje propozycje bibliotek do wykorzystania w projekcie wraz z krótkim
 # NLTK
 - https://www.nltk.org/
 - Biblioteka pozwalająca na obróbke "zdań, tekstu" do czatbota i zamiany ich w wektor danych X który potem będzie mógł zostać obrobiony przez PyTorch
+# JSON
+- https://www.w3schools.com/python/python_json.asp
+- syntax do przechowywania danych uczących
