@@ -1,5 +1,6 @@
 # Sarah-library-proposals
 Hejka, to moje propozycje bibliotek do wykorzystania w projekcie wraz z krótkim opisem dlaczego moglibyśmy ich użyć (;
+Do spotkania postaram się jeszcze coś tutaj dodać.
 
 # PyTorch
 - https://www.youtube.com/watch?v=ORMx45xqWkA
