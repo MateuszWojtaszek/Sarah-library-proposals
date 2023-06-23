@@ -12,3 +12,9 @@ Do spotkania postaram się jeszcze coś tutaj dodać.
 # JSON
 - https://www.w3schools.com/python/python_json.asp
 - syntax do przechowywania danych uczących
+
+  ```
+var add2 = function(number) {
+  return number + 2;
+}
+```
